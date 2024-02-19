@@ -9,4 +9,5 @@ then run "python3 mojeekscraper.py"
 
 cd into "Basic-Mojeek-Scraper-". 
 pip install -r requirements.txt
+
 python3 mojeekscraper.py
